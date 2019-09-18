@@ -1,23 +1,11 @@
-
-body {
-    padding-left: 15px;
-    background-color: #f6fdff;
-    color: #020202;
-}
-
-h1 a, h2 a {
-    color: #c25500;
-    font-family: 'Lobster';
-}
-
 .page-header {
-    background-color: #C25100;
+    background-color: #13f1d1;
     margin-top: 0;
     padding: 20px 20px 20px 40px;
 }
 
 .page-header h1, .page-header h1 a, .page-header h1 a:visited, .page-header h1 a:active {
-    color: rgba(2, 2, 2, 0.98);
+    color: #ffffff;
     font-size: 36pt;
     text-decoration: none;
 }
@@ -43,7 +31,7 @@ h1, h2, h3, h4 {
 }
 
 .top-menu, .top-menu:hover, .top-menu:visited {
-    color: #020202;
+    color: #ffffff;
     float: right;
     font-size: 26pt;
     margin-right: 20px;
@@ -51,9 +39,8 @@ h1, h2, h3, h4 {
 
 .post {
     margin-bottom: 70px;
-
 }
 
 .post h2 a, .post h2 a:visited {
-    color: #C25100;
+    color: #62dcef;
 }
